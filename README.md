@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Gustavo Miguel
 
 🎓 Técnico em Desenvolvimento Web - ETEC de Santa Isabel  
-🌱 Atualmente aprendendo Node.js, APIs e desenvolvimento full-stack  
+🌱 Atualmente estudando Node.js, APIs e desenvolvimento full-stack  
 💻  Apaixonado por tecnologia e soluções criativas 
 
 📫 **Entre em contato comigo:**  
