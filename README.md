@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Gustavo Miguel
 
-🎓 Técnico em Desenvolvimento Web - ETEC de Santa Isabel  
-🌱 Atualmente me aprofundando no framework React.js
-💻 Apaixonado por tecnologia e soluções criativas 
+- 🎓 Técnico em Desenvolvimento Web - ETEC de Santa Isabel  
+- 🌱 Atualmente me aprofundando no framework React.js
+- 💻 Apaixonado por tecnologia e soluções criativas 
 
 📫 **Entre em contato comigo:**  
 <p align="left">
