@@ -2,7 +2,8 @@
 
 🎓 Técnico em Desenvolvimento Web - ETEC de Santa Isabel  
 🌱 Atualmente me aprofundando no framework React.js
-💻  Apaixonado por tecnologia e soluções criativas 
+
+💻 Apaixonado por tecnologia e soluções criativas 
 
 📫 **Entre em contato comigo:**  
 <p align="left">
