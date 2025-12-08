@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Gustavo Miguel
 
 - 🎓 Análise e Desenvolvimento de Sistemas - FIAP
-- 🌱 Atualmente me aprofundando no framework React.js
+- 🌱 Atualmente me aprofundando no framework Nest.js
 - 💻 Apaixonado por tecnologia e soluções criativas 
 
 📫 **Entre em contato comigo:**  
